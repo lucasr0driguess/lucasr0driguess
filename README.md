@@ -6,9 +6,9 @@
 Estudante de **Sistemas de Informação na Universidade Federal de Goiás (UFG)**, apaixonado por tecnologia e focado em **desenvolvimento Backend**.
 
 ## Sobre mim
-- 💻 Desenvolvo com **C#** e **ASP.NET Core**
-- 🗄️ Tenho conhecimento em **bancos de dados relacionais** (PostgreSQL, MySQL)
-- ☁️ Estudando cloud com **Azure**
+- 💻 Aprimorando meus conhecimentos em C# e ASP.NET Core, com foco no desenvolvimento de aplicações.
+- 🗄️ Interessado em criar projetos práticos e explorar novas tecnologias
+- ☁️ Aprendendo sobre computação em nuvem com **Microsoft Azure**
 - 🎯 Em busca de oportunidade de estágio na área de tecnologia
 
 ## Tecnologias
